@@ -1,12 +1,8 @@
 import React from "react";
 
 const newr = () => {
-  return (
-    <div>
-      kkk
-      <h1>sushil</h1>
-    </div>
-  );
+  return <div>kkk</div>;
+  <h1>himanshu</h1>;
 };
 
 export default newr;
